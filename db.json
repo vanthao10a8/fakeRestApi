@@ -1,6 +1,10 @@
 {
   "commonCode": [
     {
+      "id": "00000",
+      "text": "- Select common Code -"
+    },
+    {
       "id": "12345",
       "text": "Nhà hỗ trợ in bằng khen"
     },

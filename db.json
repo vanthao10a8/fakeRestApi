@@ -1,23 +1,23 @@
 {
   "commonCode": [
     {
-      "value": "12345",
+      "id": "12345",
       "text": "Nhà hỗ trợ in bằng khen"
     },
     {
-      "value": "12346",
+      "id": "12346",
       "text": "Máy tính hết bộ nhớ"
     },
     {
-      "value": "12347",
+      "id": "12347",
       "text": "Yêu cầu cấp RAM máy tính"
     },
     {
-      "value": "12348",
+      "id": "12348",
       "text": "Yêu cầu cấp thêm màn hình"
     },
     {
-      "value": "12349",
+      "id": "12349",
       "text": "Thay thế máy chiếu cho phòng họp tầng 9"
     }
   ]

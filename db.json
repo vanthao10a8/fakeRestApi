@@ -1,0 +1,24 @@
+{
+  "commonCode": [
+    {
+      "code": "12345",
+      "name": "Nhà hỗ trợ in bằng khen"
+    },
+    {
+      "code": "12346",
+      "name": "Máy tính hết bộ nhớ"
+    },
+    {
+      "code": "12347",
+      "name": "Yêu cầu cấp RAM máy tính"
+    },
+    {
+      "code": "12348",
+      "name": "Yêu cầu cấp thêm màn hình"
+    },
+    {
+      "code": "12349",
+      "name": "Thay thế máy chiếu cho phòng họp tầng 9"
+    }
+  ]
+}
